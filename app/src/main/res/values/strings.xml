@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">CourseBrowser</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_section1">Section 1</string>
+  <string name="title_section2">Section 2</string>
+  <string name="title_section3">Section 3</string>
+  <string name="title_activity_pswebsite">Pluralsight</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="title_activity_course_info">Course Info</string>
+  <string name="action_view">View</string>
+  <string name="action_contents">Contents</string>
+  <string name="action_website">Website</string>
+  <string name="action_description">Description</string>
+  <string name="action_assessment">Assessment</string>
+  <string name="action_exercises">Exercises</string>
+  <string name="action_refs">Related References</string>
+  <string name="title_action_view">View Video</string>
+  <string name="title_action_contents">Table of Contents</string>
+  <string name="title_action_website">Website</string>
+  <string name="title_action_description">See Description</string>
+  <string name="title_action_assessment">Take Assessment</string>
+  <string name="title_action_exercises">Download Exercises</string>
+  <string name="title_action_refs">Visit Related References</string>
+
+  <string name="open_drawer_message">Open course categories</string>
+  <string name="close_drawer_message">Close course categories</string>
+</resources>

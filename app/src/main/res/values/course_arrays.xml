@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--
+  ***************************************************
+                    ANDROID
+  ***************************************************
+  -->
+  <!-- Course Titles -->
+  <string-array name="android_course_titles">
+    <item>@string/android_fragments_title</item>
+    <item>@string/android_intents_title</item>
+    <item>@string/android_action_bar_title</item>
+    <item>@string/android_photo_video_title</item>
+    <item>@string/android_4_features_title</item>
+    <item>@string/android_location_apps_title</item>
+    <item>@string/android_async_services_title</item>
+  </string-array>
+
+  <!-- Course Titles Shorted Versions -->
+  <string-array name="android_course_titles_short">
+    <item>@string/android_fragments_title_short</item>
+    <item>@string/android_intents_title_short</item>
+    <item>@string/android_action_bar_title_short</item>
+    <item>@string/android_photo_video_title_short</item>
+    <item>@string/android_4_features_title_short</item>
+    <item>@string/android_location_apps_title_short</item>
+    <item>@string/android_async_services_title_short</item>
+  </string-array>
+
+  <!-- Course Descriptions -->
+  <string-array name="android_course_descriptions">
+    <item>@string/android_fragments_description</item>
+    <item>@string/android_intents_description</item>
+    <item>@string/android_action_bar_description</item>
+    <item>@string/android_photo_video_description</item>
+    <item>@string/android_4_features_description</item>
+    <item>@string/android_location_apps_description</item>
+    <item>@string/android_async_services_description</item>
+  </string-array>
+
+  <!--
+  ***************************************************
+                    IOS
+  ***************************************************
+  -->
+  <!-- Course Titles -->
+  <string-array name="ios_course_titles">
+    <item>Introduction to iOS - Part 1</item>
+    <item>Introduction to iOS - Part 2</item>
+    <item>Introduction to Objective-C</item>
+    <item>Consuming Web Services and Using Local Storage on iOS</item>
+    <item>Introduction to iOS for .NET Developers</item>
+    <item>Introduction to Xcode</item>
+    <item>iOS Graphics and Animation Programming</item>
+    <item>iPhone ASP.NET Fundementals</item>
+  </string-array>
+
+  <!-- Course Titles Shorted Versions -->
+  <string-array name="ios_course_titles_short">
+    <item>Intro Part 1</item>
+    <item>Intro Part 2</item>
+    <item>Objective-C</item>
+    <item>Web Svcs/Storage</item>
+    <item>iOS for .NET Devs</item>
+    <item>Xcode</item>
+    <item>Graphics/Animation</item>
+    <item>iPhone ASP.NET</item>
+  </string-array>
+
+  <!-- Course Descriptions -->
+  <string-array name="ios_course_descriptions">
+    <item>Beginning iOS development from a .NET perspective</item>
+    <item>This course continues on from the first course on beginning iOS and iPhone development. We cover some more advanced beginner topics and address deploying our application to the app store.</item>
+    <item>A basic introduction to the Objective-C programming language and XCode IDE.</item>
+    <item>This course demonstrates the fundamental techniques for downloading, reading, and writing data in iOS apps.</item>
+    <item>This course introduces the basics of the iOS platform to .NET developers.</item>
+    <item>This course provides the foundational skills you need to use Xcode effectively.</item>
+    <item>Learn how to work with graphics and animation on iOS devices.</item>
+    <item>Learn to apply your ASP.NET skills to create rich, interactive iPhone and iPod Touch Web Applications</item>
+  </string-array>
+
+  <!--
+  ***************************************************
+                Windows Phone
+  ***************************************************
+  -->
+  <!-- Course Titles -->
+  <string-array name="windows_phone_course_titles">
+    <item>Windows Phone 7 Basics</item>
+    <item>Beyond the Basics in Windows Phone 8</item>
+    <item>Building Windows Phone Apps with Azure</item>
+    <item>Core Windows Phone 7 Development</item>
+    <item>Hands-on Windows Phone 7 Development</item>
+    <item>Introduction to Windows Phone 8</item>
+    <item>Windows Phone 7 Mango Multitasking</item>
+    <item>Windows Phone 7.5 Data</item>
+  </string-array>
+
+  <!-- Course Titles Shorted Versions -->
+  <string-array name="windows_phone_course_titles_short">
+    <item>WP7 Basics</item>
+    <item>WP8 Beyond Basics</item>
+    <item>WP Apps with Azure</item>
+    <item>Core WP7</item>
+    <item>Hands-on WP7</item>
+    <item>WP8 Intro</item>
+    <item>WP7 Multitasking</item>
+    <item>WP7.5 Data</item>
+  </string-array>
+
+  <!-- Course Descriptions -->
+  <string-array name="windows_phone_course_descriptions">
+    <item>The course introduces you to the basics of the Windows Phone 7 platform using Visual Studio 2010 and Blend</item>
+    <item>This course will walk you through four new features included in the Windows Phone 8 SDK including: Speech, In-App Purchasing, Wallet transactions and the new Map control.</item>
+    <item>Learn how to use Azure storage services from a Windows Phone application</item>
+    <item>This course will introduce you to core concepts in Windows Phone development</item>
+    <item>This course covers many real-world issues developers face when building Windows 7 Phone applications</item>
+    <item>Learn how to build apps that run on Windows Phone.</item>
+    <item>The course introduces you to the new multitasking features in the "Mango" release of Windows Phone 7</item>
+    <item>This course explores the various ways Windows Phone applications access data</item>
+  </string-array>
+
+</resources>

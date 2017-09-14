@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity$DummySectionFragment"
+    android:gravity="fill_horizontal"
+    >
+
+  <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/topCard"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="@dimen/activity_vertical_margin"
+      android:src="@drawable/ps_top_card_01"/>
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:text="Improving User Interface Design with Android Fragments"
+      android:id="@+id/courseTitle"
+      android:layout_below="@+id/topCard"
+      android:layout_centerHorizontal="true"
+      android:gravity="center_horizontal"
+      android:layout_marginTop="@dimen/activity_vertical_margin"/>
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceSmall"
+      android:text="Android 4.0 includes a number of new developer features that improve the ability for applications to support a wide variety of devices and enhance developer productivity. In this course we will exam many of these new features including Android user interface Fragments, the ActionBar, networking features, and the new Calendar API."
+      android:id="@+id/courseDescription"
+      android:layout_below="@+id/courseTitle"
+      android:layout_marginTop="@dimen/activity_vertical_margin"
+      android:gravity="center_horizontal"/>
+
+  <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/courseTypeLogo"
+      android:layout_alignParentBottom="true"
+      android:layout_centerHorizontal="true"
+      android:src="@drawable/ps_android_logo"/>
+
+
+</RelativeLayout>
